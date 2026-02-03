@@ -13,7 +13,7 @@ The backend handles user authentication, quiz management, and real-time communic
 -CORS Support: Enables cross-origin requests for frontend integration.
 
 =>Technologies
--Node.js: v18.x
+-Node.js
 -Express.js: API framework
 -MongoDB/Mongoose: Database and ODM
 -Socket.IO: Real-time communication
